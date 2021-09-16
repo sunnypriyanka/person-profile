@@ -1,0 +1,67 @@
+.App {
+width: 100vw;
+height: 100vw;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.Sidebar {
+    height: 100%;
+    width: 250px;
+    background-color: rgb(9, 94, 143);
+}
+.image {
+
+    width: 70px;
+    height: 70px;
+    left: 80px;
+    top: 80px;
+}
+.Leftbarlist .list{
+    width: 100%;
+    margin-top: 10px;
+    list-style: none;
+    margin: 0;
+    color: #85a3da;
+    padding: 20px;
+    margin-left: 0px;
+
+
+}
+.Leftbarlist{
+    height: auto;
+    padding: 0;
+    margin-top: 25px;
+}
+.list #icon{
+     margin-top: 10px;
+    margin-left: -40px;
+    
+    
+
+}
+
+.list #title{
+    margin-bottom: 10px;
+    margin-left: -42px;
+    font-size: 14px;
+    margin-top: 10px;
+    
+  
+
+}
+.LeftSideAlign  #active{
+    background-color: #3434a4;
+    border-left: 3.5px solid #2196f3;
+    color: #e0e0e0;
+
+}
+.LeftSideAlign .list:hover{
+    cursor: pointer;
+    background-color: #3434a4;
+    border-left: 3.5px solid #2196f3;
+    color: #b1c5dd;
+}
