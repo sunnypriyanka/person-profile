@@ -1,5 +1,6 @@
 # Person profile - job seeker
-### Developed by React
+
+### Developed by ` Priyanka ` with React
 
 ### Description :
 Dashboard for individual person who seeks for job. in this project you will find single-page profile dashboard page
