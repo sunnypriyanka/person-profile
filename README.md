@@ -1,3 +1,17 @@
+# Person profile - job seeker
+### Developed by React
+
+### Description :
+Dashboard for individual person who seeks for job. in this project you will find single-page profile dashboard page
+
+# Screenshot  :
+![person profile](https://user-images.githubusercontent.com/88229034/133716558-77c18cd1-0bca-4043-9a0e-cea32f593997.PNG)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
